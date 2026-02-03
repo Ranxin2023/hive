@@ -14,9 +14,13 @@ from pydantic import BaseModel, Field
 # from enum import Enum
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 >>>>>>> d19aaed (fixing linter issues)
+=======
+
+>>>>>>> 9cd4bc3 (resolve test case conflict)
 class ApprovalStatus(StrEnum):
     """Status of user approval for a generated test."""
 
