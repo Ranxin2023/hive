@@ -13,7 +13,10 @@ from pydantic import BaseModel, Field
 
 # from enum import Enum
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> d19aaed (fixing linter issues)
 class ApprovalStatus(StrEnum):
     """Status of user approval for a generated test."""
 
