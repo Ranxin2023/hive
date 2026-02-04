@@ -15,12 +15,16 @@ from pydantic import BaseModel, Field
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 >>>>>>> d19aaed (fixing linter issues)
 =======
 
 >>>>>>> 9cd4bc3 (resolve test case conflict)
+=======
+
+>>>>>>> 537d935 (resolve the test case issue)
 class ApprovalStatus(StrEnum):
     """Status of user approval for a generated test."""
 
